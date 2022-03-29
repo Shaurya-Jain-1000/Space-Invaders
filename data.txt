@@ -1,0 +1,1 @@
+{"highscore": 390, "money": 66.9, "pistol_speed": 0.8, "pistol_damage": 1, "shotgun_speed": 0.2, "shotgun_damage": 3}
